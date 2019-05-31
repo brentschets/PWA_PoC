@@ -1,0 +1,14 @@
+/Users/brentschets/Documents/GitHub/Bachelorproef/Source PoC/DoMeApp/DoMeApp/bin/Debug/netcoreapp2.2/DoMeApp.deps.json
+/Users/brentschets/Documents/GitHub/Bachelorproef/Source PoC/DoMeApp/DoMeApp/bin/Debug/netcoreapp2.2/DoMeApp.runtimeconfig.json
+/Users/brentschets/Documents/GitHub/Bachelorproef/Source PoC/DoMeApp/DoMeApp/bin/Debug/netcoreapp2.2/DoMeApp.runtimeconfig.dev.json
+/Users/brentschets/Documents/GitHub/Bachelorproef/Source PoC/DoMeApp/DoMeApp/bin/Debug/netcoreapp2.2/DoMeApp.dll
+/Users/brentschets/Documents/GitHub/Bachelorproef/Source PoC/DoMeApp/DoMeApp/bin/Debug/netcoreapp2.2/DoMeApp.pdb
+/Users/brentschets/Documents/GitHub/Bachelorproef/Source PoC/DoMeApp/DoMeApp/obj/Debug/netcoreapp2.2/DoMeApp.csprojAssemblyReference.cache
+/Users/brentschets/Documents/GitHub/Bachelorproef/Source PoC/DoMeApp/DoMeApp/obj/Debug/netcoreapp2.2/DoMeApp.csproj.CoreCompileInputs.cache
+/Users/brentschets/Documents/GitHub/Bachelorproef/Source PoC/DoMeApp/DoMeApp/obj/Debug/netcoreapp2.2/DoMeApp.RazorAssemblyInfo.cache
+/Users/brentschets/Documents/GitHub/Bachelorproef/Source PoC/DoMeApp/DoMeApp/obj/Debug/netcoreapp2.2/DoMeApp.RazorAssemblyInfo.cs
+/Users/brentschets/Documents/GitHub/Bachelorproef/Source PoC/DoMeApp/DoMeApp/obj/Debug/netcoreapp2.2/DoMeApp.AssemblyInfoInputs.cache
+/Users/brentschets/Documents/GitHub/Bachelorproef/Source PoC/DoMeApp/DoMeApp/obj/Debug/netcoreapp2.2/DoMeApp.AssemblyInfo.cs
+/Users/brentschets/Documents/GitHub/Bachelorproef/Source PoC/DoMeApp/DoMeApp/obj/Debug/netcoreapp2.2/DoMeApp.RazorTargetAssemblyInfo.cache
+/Users/brentschets/Documents/GitHub/Bachelorproef/Source PoC/DoMeApp/DoMeApp/obj/Debug/netcoreapp2.2/DoMeApp.dll
+/Users/brentschets/Documents/GitHub/Bachelorproef/Source PoC/DoMeApp/DoMeApp/obj/Debug/netcoreapp2.2/DoMeApp.pdb

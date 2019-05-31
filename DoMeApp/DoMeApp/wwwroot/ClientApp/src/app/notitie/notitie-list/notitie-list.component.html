@@ -1,0 +1,46 @@
+<div fxLayout="column" fxLayoutGap="2%">
+  <mat-card>
+    <mat-form-field>
+      <input
+        matInput
+        (keyup)="filterNotitie$.next($event.target.value)"
+        placeholder="filter"
+        type="text"
+        #filter
+        data-cy="filterInput"
+        [value]="filterNotitieName"
+      />
+    </mat-form-field>
+  </mat-card>
+  <div *ngIf="notities as notities; else loadingOrError">
+    <div
+      fxLayout="row wrap"
+      fxLayout.xs="column"
+      fxLayoutGap="0.5%"
+      fxLayoutAlign="start"
+    >
+      <div
+        class="notitie"
+        *ngFor="let notitie of notities"
+        fxFlex="0 0 calc(25%-0.5%)"
+        fxFlex.xs="100%"
+      >
+        <app-notitie [notitie]="notitie" data-cy="notitieCard"></app-notitie>
+      </div>
+    </div>
+  </div>
+  <ng-template #loadingOrError>
+    <mat-card>
+      <mat-error
+        data-cy="appError"
+        *ngIf="(loadingError$ | async) as errorMessage; else loading"
+      >
+        Error loading the notitie list: {{ errorMessage }}. <br />Please try
+        again later.
+      </mat-error>
+      <ng-template #loading>
+        <mat-spinner></mat-spinner>
+      </ng-template>
+    </mat-card>
+  </ng-template>
+</div>

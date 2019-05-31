@@ -1,0 +1,15 @@
+<mat-card>
+  <mat-card-header>
+    <mat-card-title data-cy="title-title">
+      {{ notitie.title }}</mat-card-title
+    >
+    <mat-card-subtitle
+      >added on {{ notitie.created | date: "dd MMMM yyyy" }}</mat-card-subtitle
+    >
+
+  </mat-card-header>
+  <mat-card-content>
+    <h3 >{{ notitie.content }}</h3>
+        <a>{{notitie.owner}}</a>
+  </mat-card-content>
+</mat-card>

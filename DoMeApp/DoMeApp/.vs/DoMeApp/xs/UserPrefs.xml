@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{BEE34B3B-EB27-4B28-85ED-781AC50927EF}|Default">
+  <MonoDevelop.Ide.ItemProperties.DoMeApp PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Controllers/AccountController.cs">
+    <Files>
+      <File FileName="Startup.cs" Line="147" Column="107" />
+      <File FileName="Program.cs" Line="10" Column="1" />
+      <File FileName="appsettings.json" Line="4" Column="9" />
+      <File FileName="Controllers/AccountController.cs" Line="42" Column="25" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DoMeApp" expanded="True">
+            <Node name="DoMeApp" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="AccountController.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/brentschets/Documents/GitHub/Bachelorproef/Source PoC/DoMeApp/DoMeApp/Controllers/AccountController.cs" relfile="Controllers/AccountController.cs" line="44" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
